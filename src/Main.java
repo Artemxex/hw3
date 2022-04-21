@@ -43,7 +43,7 @@ public class Main {
             else System.out.println("Потребуется 2 дня для доставки");
         } else System.out.println("Потребуется 1 день для доставки");
 
-        //Задание 5
+        //Задача 5
 
         int monthNumber = 12;
 
